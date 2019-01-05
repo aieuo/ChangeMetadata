@@ -1,7 +1,7 @@
 name: ChangeMetaData
 main: aieuo\ChangeMetaData
-version: 0.1
-api: [3.0.0-ALPHA12]
+version: 1.0
+api: [3.0.0]
 load: POSTWORLD
 author: aieuo
 description: タップでダメージ値を変更
